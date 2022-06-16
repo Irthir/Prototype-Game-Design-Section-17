@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Data\\Ludus\\Prototype GD\\LaboratoireVirtuel\\Source\\LaboratoireVirtuel\\LaboratoireVirtuel.Build.cs",
+		"C:\\Data\\Ludus\\Prototype GD\\LaboratoireVirtuel\\Source\\LaboratoireVirtuel.Target.cs",
+		"C:\\Data\\Ludus\\Prototype GD\\LaboratoireVirtuel\\Source\\LaboratoireVirtuelEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

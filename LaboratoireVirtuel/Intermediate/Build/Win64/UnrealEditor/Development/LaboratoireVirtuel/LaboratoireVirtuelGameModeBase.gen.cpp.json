@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\unrealeditor\\inc\\laboratoirevirtuel\\laboratoirevirtuelgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\laboratoirevirtueleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\unrealeditor\\development\\laboratoirevirtuel\\definitions.laboratoirevirtuel.h",
+            "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\source\\laboratoirevirtuel\\laboratoirevirtuelgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\unrealeditor\\inc\\laboratoirevirtuel\\laboratoirevirtuelgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

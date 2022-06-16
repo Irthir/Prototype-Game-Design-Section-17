@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\unrealeditor\\inc\\laboratoirevirtuel\\laboratoirevirtuel.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\laboratoirevirtueleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\data\\ludus\\prototype gd\\laboratoirevirtuel\\intermediate\\build\\win64\\unrealeditor\\development\\laboratoirevirtuel\\definitions.laboratoirevirtuel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

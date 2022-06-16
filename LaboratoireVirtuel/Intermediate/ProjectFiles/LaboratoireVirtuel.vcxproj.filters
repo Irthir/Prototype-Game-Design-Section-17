@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LaboratoireVirtuel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LaboratoireVirtuel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LaboratoireVirtuelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LaboratoireVirtuel">
+      <UniqueIdentifier>{1FE89CA8-0780-3AC6-99F3-D8F876414EA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LaboratoireVirtuel\LaboratoireVirtuel.Build.cs">
+      <Filter>Source\LaboratoireVirtuel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LaboratoireVirtuel\LaboratoireVirtuel.cpp">
+      <Filter>Source\LaboratoireVirtuel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LaboratoireVirtuel\LaboratoireVirtuel.h">
+      <Filter>Source\LaboratoireVirtuel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LaboratoireVirtuel\LaboratoireVirtuelGameModeBase.cpp">
+      <Filter>Source\LaboratoireVirtuel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LaboratoireVirtuel\LaboratoireVirtuelGameModeBase.h">
+      <Filter>Source\LaboratoireVirtuel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
