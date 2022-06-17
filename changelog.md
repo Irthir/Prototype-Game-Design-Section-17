@@ -1,3 +1,9 @@
+## [0.0.5] - 2022-06-17
+### Ajout
+-Création de la skybox étoilée.
+-Création du soleil.
+-Création de la terre avec rotation, nuage et cycle jour/nuit.
+
 ## [0.0.4] - 2022-06-16
 ### Ajout
 -Avancées sur la scène de la loi de Newton.
