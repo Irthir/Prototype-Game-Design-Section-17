@@ -1,6 +1,41 @@
-## [0.0.5] -- [0.1.1] - 2022-06-07 -- 2022-06-24
-### Erreur
--Avancées sur le projet jusqu'au rendu du prototype, mais un manque de git régulier et une erreur de manipulation a effacé tout le code sur unreal ainsi que les documents non sauvegardés, l'exécutable a pu être sauvé néanmoins.
+## [0.1.1] - 2022-06-24
+### Ajout
+-Écriture de la présentation.
+-Écriture du post-mortem.
+### Gestion de projet
+-Envoie du projet et fin du tutoriel.
+
+## [0.1.0] - 2022-06-23
+### Ajout
+-Lecture de la formule donnée par le joueur pour la trajectoire de la terre.
+-Ajout d'explosion pour les cas d'échec.
+
+## [0.0.9] - 2022-06-22
+### Ajout
+-Finalisation et correction de la loi de newton sur l'orbite de kepler.
+-Ajout d'une font pour l'I.U.
+-Ajout du texte pour l'I.U.
+
+## [0.0.8] - 2022-06-21
+### Ajout
+-Tests sur les fonctions mathématiques de Newton et Kepler.
+
+## [0.0.7] - 2022-06-20
+### Ajout
+-Mise en place du drag & drop.
+-Test sur l'application des formules d'orbite.
+### Modification
+-Révision de la texture du soleil.
+
+## [0.0.6] - 2022-06-18
+### Modification
+-Révision de la skybox.
+
+## [0.0.5] - 2022-06-17
+### Ajout
+-Création de la skybox étoilée.
+-Création du soleil.
+-Création de la terre avec rotation, nuage et cycle jour/nuit.
 
 ## [0.0.4] - 2022-06-16
 ### Ajout
