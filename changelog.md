@@ -1,3 +1,7 @@
+## [0.0.5] -- [0.1.1] - 2022-06-07 -- 2022-06-24
+### Erreur
+-Avancées sur le projet jusqu'au rendu du prototype, mais un manque de git régulier et une erreur de manipulation a effacé tout le code sur unreal ainsi que les documents non sauvegardés, l'exécutable a pu être sauvé néanmoins.
+
 ## [0.0.4] - 2022-06-16
 ### Ajout
 -Avancées sur la scène de la loi de Newton.
